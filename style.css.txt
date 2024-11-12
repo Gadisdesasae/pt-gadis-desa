@@ -1,0 +1,20 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: url('images/hero-background.jpg'); /* Sesuaikan dengan gambar latar */
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    font-size: 0.9rem;
+}
